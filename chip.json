@@ -1,0 +1,22 @@
+{
+  "name": "sn54s64",
+  "docs": "https://github.com/wokwi-custom-chips/sn5454/blob/main/docs/README.md",
+  "author": "algovoid",
+  "pins": [
+    "A",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "GND",
+    "Y",
+    "J",
+    "K",
+    "B",    
+    "C",
+    "D",
+    "VCC"
+  ],
+  "controls": []
+}
